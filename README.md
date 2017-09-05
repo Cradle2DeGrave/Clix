@@ -13,3 +13,20 @@ Put this in your header or footer
 # Demo
 For demo usage of the script visit on of the thread at [HajarBos Network](https://www.hajarbos.com/f15/).
 Thanks to [@dendikz](https://github.com/dendikz) for demo site.
+
+# Supported Filehost
+- Rapidgator
+- Uploadgig
+- Shareo-online
+- ul.to
+- Nitroflare
+- Turbobit
+- Bulletupload
+- Mediafire
+- Depositfiles
+- Bitshare
+- Netload
+- Uploaded.net
+- Alfafile
+- Lumfile
+

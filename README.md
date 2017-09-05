@@ -11,4 +11,5 @@ Put this in your header or footer
 ```
 
 # Demo
-For demo usage of the script visit on of the thread at [HajarBos Network](https://www.hajarbos.com/)
+For demo usage of the script visit on of the thread at [HajarBos Network](https://www.hajarbos.com/f15/).
+Thanks to @github/dendikz for demo site.

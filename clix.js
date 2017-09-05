@@ -24,8 +24,8 @@ jQuery.fn.hfautolink = function() {
     re_link3 = new RegExp('https?://(?:[A-Z0-9]\.)*(?:rapidgator.net)[-()A-Z0-9+&@#/%?=~_|!:,.;]*[A-Z0-9+&@#/%=~_|]', "i");
     re_link4 = new RegExp('(https?://(?:[A-Z0-9]\.)*(?:uploadgig.com)[-()A-Z0-9+&@#/%?=~_|!:,.;]*[A-Z0-9+&@#/%=~_|])', "ig");
     re_link5 = new RegExp('https?://(?:[A-Z0-9]\.)*(?:uploadgig.com)[-()A-Z0-9+&@#/%?=~_|!:,.;]*[A-Z0-9+&@#/%=~_|]', "i");
-    re_link6 = new RegExp('(https?://(?:[A-Z0-9]\.)*(?:extabit.com)[-()A-Z0-9+&@#/%?=~_|!:,.;]*[A-Z0-9+&@#/%=~_|])', "ig");
-    re_link7 = new RegExp('https?://(?:[A-Z0-9]\.)*(?:extabit.com)[-()A-Z0-9+&@#/%?=~_|!:,.;]*[A-Z0-9+&@#/%=~_|]', "i");
+    re_link6 = new RegExp('(https?://(?:[A-Z0-9]\.)*(?:share-online.biz)[-()A-Z0-9+&@#/%?=~_|!:,.;]*[A-Z0-9+&@#/%=~_|])', "ig");
+    re_link7 = new RegExp('https?://(?:[A-Z0-9]\.)*(?:share-online.biz)[-()A-Z0-9+&@#/%?=~_|!:,.;]*[A-Z0-9+&@#/%=~_|]', "i");
     re_link8 = new RegExp('(https?://(?:[A-Z0-9]\.)*(?:nitroflare.com)[-()A-Z0-9+&@#/%?=~_|!:,.;]*[A-Z0-9+&@#/%=~_|])', "ig");
     re_link9 = new RegExp('https?://(?:[A-Z0-9]\.)*(?:nitroflare.com)[-()A-Z0-9+&@#/%?=~_|!:,.;]*[A-Z0-9+&@#/%=~_|]', "i");
     re_link10 = new RegExp('(https?://(?:[A-Z0-9]\.)*(?:turbobit.net)[-()A-Z0-9+&@#/%?=~_|!:,.;]*[A-Z0-9+&@#/%=~_|])', "ig");
